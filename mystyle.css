@@ -1,0 +1,15 @@
+/* ใส่สีพื้นหลังค้าบบบบ */
+body {
+    background-color: #FFF0BE;
+}
+
+/* ใส่สีให้กับหัวข้อ ขนาด h1 ให้หมดด */
+h1 {
+    color: #FF9A86;
+    margin-left: 30px;
+}
+
+button {
+    background-color: #FFD6A6;
+    border-color: #FF9A86;
+}
